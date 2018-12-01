@@ -5,7 +5,7 @@ An openframeworks experiment for playing sound reactive.
 
 [View Full Captured Demo](https://vimeo.com/41078447)
 
-<img src="https://github.com/after12am/ofSoundReactive/blob/master/capture.gif" />
+<img src="https://github.com/after12am/ofSoundReactive/blob/master/capture.gif" width="100%" />
 
 Requires
 ========
