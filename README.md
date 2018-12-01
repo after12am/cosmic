@@ -3,8 +3,9 @@ ofSoundReactive
 
 An openframeworks experiment for playing sound reactive.
 
-[View Live Demo](https://vimeo.com/41078447)
+[View Full Captured Demo](https://vimeo.com/41078447)
 
+<img src="https://github.com/after12am/ofSoundReactive/blob/master/capture.gif" />
 
 Requires
 ========
@@ -13,8 +14,10 @@ Requires
 * of_v007_osx
 
 
-How to Execute App
-==================
+Live Demo
+=========
 
 1. execute bin/emptyExampleDebug.app
-2. enter space
+2. enter space to start
+3. enter h-key to hide menu
+
