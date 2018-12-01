@@ -21,3 +21,7 @@ Requires
 * [openframeworks](https://openframeworks.cc)
 * [ofBoids](https://github.com/after12am/ofxBoids)
 
+
+## License
+
+Copyright (c) 2012-2018 Satoshi Okami. See the LICENSE file for license rights and limitations (MIT).
